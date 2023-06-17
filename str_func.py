@@ -10,3 +10,16 @@ def uppercase_string(input_string):
         str: Строка с заглавными буквами.
     """
     return input_string.upper()
+
+def capitalize_words(input_string):
+    """
+    Capitalizes the first letter of each word in the input string.
+    
+    Args:
+        input_string (str): The input string.
+    
+    Returns:
+        str: The string with capitalized words.
+    """
+    # Implementation of the function
+    ...
